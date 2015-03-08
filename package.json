@@ -14,45 +14,33 @@
     "hoodie",
     "notification",
     "cordova",
-    "goappes",
+    "greenlizard",
     "plugin"
   ],
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/goappes/hoodie-plugin-push-notification"
+    "url": "https://github.com/greenlizard/hoodie-plugin-push-notification"
   },
-  "author": "GoAppes <apes@goappes.com>",
+  "author": "Gabriel Mancini <gabriel@greenlizard.com.br>",
   "contributors": [
     {
-      "name": "GoAppes",
-      "email": "apes@goappes.com"
-    },
-    {
       "name": "Gabriel Mancini",
-      "email": "gabriel@goappes.com"
+      "email": "gabriel@greenlizard.com.br"
     },
     {
       "name": "João Neto",
-      "email": "joao@goappes.com"
-    },
-    {
-      "name": "Italo Amorim",
-      "email": "italo@goappes.com"
+      "email": "joao@greenlizard.com.br"
     }
   ],
   "maintainers": [
     {
       "name": "gabriel",
-      "email": "gabriel@goappes.com"
+      "email": "gabriel@greenlizard.com.br"
     },
     {
       "name": "joao",
-      "email": "joao@goappes.com"
-    },
-    {
-      "name": "italo",
-      "email": "italo@goappes.com"
+      "email": "joao@greenlizard.com.br"
     }
   ]
 }
